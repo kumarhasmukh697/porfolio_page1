@@ -32,6 +32,6 @@ document.addEventListener("DOMContentLoaded", () => {
     // Resume Download Alert (for demo purpose)
     const resumeLink = document.getElementById("resume-download");
     resumeLink.addEventListener("click", () => {
-        alert("Resume download will be available soon!");
+        alert("Projects will be available soon!");
     });
 });
